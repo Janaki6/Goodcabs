@@ -1,6 +1,6 @@
 # Goodcabs
 
-Goodcabs Performance Analysis: Driving Success in Tier-2 Cities 🚖
+Goodcabs Performance Analysis
 
 Goodcabs, a growing cab service in India, has been operating in tier-2 cities for two years but is aiming to improve market penetration and performance. 
 
