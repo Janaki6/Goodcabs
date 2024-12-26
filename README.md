@@ -33,7 +33,9 @@ Passenger Satisfaction: Tourism cities excel in ratings and trip target, but fac
 
 External Influences: Weather and local events significantly impact trip demand.
 
+
 Recommendations:
+
 Focus on increasing trip volumes through targeted campaigns and marketing strategies in underperforming cities.
 
 Implement dynamic pricing to balance profitability and customer satisfaction.
