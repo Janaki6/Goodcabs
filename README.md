@@ -35,9 +35,5 @@ Implement Customer Feedback to improve service quality.
 
 Links:
 
-GitHub Repository
-Live Dashboard
-Audio Presentation
-Portfolio
-
-A huge thank you to Dhaval Patel, Hemanand Vadivel, and the entire Codebasics team for this invaluable learning experience!
+[Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNGIyZjc2N2EtOTVmNi00ZTM4LWE2NjQtZTgyMzA2YmJmOThhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Video Presentation](https://youtu.be/UiZ3EQ9P2AE)
