@@ -49,3 +49,22 @@ Links:
 [Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNGIyZjc2N2EtOTVmNi00ZTM4LWE2NjQtZTgyMzA2YmJmOThhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 [Video Presentation](https://youtu.be/UiZ3EQ9P2AE)
+
+
+![image](https://github.com/user-attachments/assets/0b1f1c67-d55e-4b7b-b9a9-abf2a8300d18)
+
+![image](https://github.com/user-attachments/assets/bce4ad27-f4f6-473f-a2de-3f7eb1a7f3db)
+
+![image](https://github.com/user-attachments/assets/b0d9b29b-569e-43d6-88eb-ad17daf5312a)
+
+![image](https://github.com/user-attachments/assets/74650935-c349-4e4f-962d-5f6c3b9662ba)
+
+![image](https://github.com/user-attachments/assets/4200e6cd-afaf-4503-abef-dbed0af9ab71)
+
+
+
+
+
+
+
+
