@@ -1,6 +1,9 @@
 Goodcabs Performance Analysis 🚕
+
 Project: Codebasics Resume Challenge #13
+
 Duration: Analyzed Jan–Jun 2024 data
+
 Role: Data Analyst — Strategy & Insights
 
 Goodcabs, a rapidly growing cab service focused on India’s tier-2 cities, aims to expand its market share and improve operational efficiency. Through this project, I analyzed six months of operational data to identify patterns, uncover growth opportunities, and recommend actionable strategies.
