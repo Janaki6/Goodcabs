@@ -13,7 +13,9 @@ Power BI: Built an interactive dashboard with key metrics and trends.
 
 PowerPoint: Created a presentation to communicate insights and recommendations.
 
+
 📊 Key Insights
+
 City Performance: Jaipur tops in trip volumes but needs better pricing; Surat has strong repeat riders but underpriced fares.
 
 Demand Patterns: Weekdays see higher demand in business cities; weekends and Feb–May are peak for tourist hubs.
@@ -22,7 +24,9 @@ Passenger Loyalty: New passengers give higher ratings than repeat customers, hig
 
 Revenue Trends: Seasonal and local events significantly impact trip demand and revenue spikes.
 
+
 ✅ Recommendations
+
 Run city-specific marketing to boost trips in low-performing areas.
 
 Use dynamic pricing to balance profitability and customer satisfaction.
