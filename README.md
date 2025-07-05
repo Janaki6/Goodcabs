@@ -1,54 +1,48 @@
-# Goodcabs
+Goodcabs Performance Analysis 🚕
+Project: Codebasics Resume Challenge #13
+Duration: Analyzed Jan–Jun 2024 data
+Role: Data Analyst — Strategy & Insights
 
-Goodcabs Performance Analysis
+Goodcabs, a rapidly growing cab service focused on India’s tier-2 cities, aims to expand its market share and improve operational efficiency. Through this project, I analyzed six months of operational data to identify patterns, uncover growth opportunities, and recommend actionable strategies.
 
-Goodcabs, a growing cab service in India, has been operating in tier-2 cities for two years but is aiming to improve market penetration and performance. 
+🔍 Tools Used:
 
-Through the Codebasics Resume Challenge #13, I had the opportunity to dive deep into their operational data and provide insights into key metrics like trip volume, passenger satisfaction, and revenue trends.
+MySQL: Data extraction, cleansing, and complex query optimization.
 
-This project allowed me to blend technical skills with business strategy to uncover actionable insights and drive growth!
+Power BI: Interactive dashboards showcasing key metrics and trends.
 
-Tools Used:
+PowerPoint: For stakeholder-ready presentations and strategic recommendations.
 
-MySQL: For data extraction and query optimization.
+📈 Key Findings:
 
-Power BI: To visualize key metrics and create interactive dashboards.
+Top Cities: Jaipur leads in trip volumes but struggles with fare pricing, while Surat has strong repeat passenger loyalty but underpriced fares.
 
-PowerPoint: For presenting insights and recommendations.
+Peak Demand: Business hubs are busiest on weekdays; tourist cities peak on weekends and during Feb–May.
+
+Passenger Insights: New customers rate services higher than repeat riders — highlighting a loyalty gap.
+
+Revenue Trends: Seasonal spikes align with local tourism calendars and events.
+
+External Drivers: Local events and weather patterns significantly shape trip demand.
+
+✅ Strategic Recommendations:
+
+Launch city-specific marketing campaigns to boost trips in low-performing regions.
+
+Implement dynamic pricing to balance customer affordability with profitability.
+
+Optimize fleet allocation based on real-time demand patterns.
+
+Invest in Electric Vehicles (EVs) for long-term cost savings and sustainability goals.
+
+Forge partnerships with malls, hotels, and event venues to expand market reach.
+
+Continuously capture and act on passenger feedback to lift satisfaction and loyalty.
+
+Impact:
+This project combined technical skills with business strategy, resulting in a comprehensive dashboard and clear action plan to help Goodcabs scale efficiently and profitably in new markets.
 
 
-Key Insights:
-
-City Performance: Jaipur leads in trip volume but struggles with overpriced fares. Surat excels in repeat passengers but requires better pricing strategies.
-
-Peak Demand: Weekdays dominate in business cities, while weekends are preferred in tourist destinations.
-
-Seasonal Trends: Tourist cities show high demand during February-May, while business hubs have consistent demand from May-June.
-
-Loyalty Metrics: New passengers tend to rate services higher than repeat customers.
-
-Revenue Patterns: Revenue peaks during February-May in tourism cities, driven by seasonal demand.
-
-Passenger Satisfaction: Tourism cities excel in ratings and trip target, but face challenges in achieving new passenger targets.
-
-External Influences: Weather and local events significantly impact trip demand.
-
-
-Recommendations:
-
-Focus on increasing trip volumes through targeted campaigns and marketing strategies in underperforming cities.
-
-Implement dynamic pricing to balance profitability and customer satisfaction.
-
-Implement demand-based driver allocation to meet varying city dynamics.
-
-Introduce Electric Vehicles (EVs) for cost efficiency and environmental sustainability.
-
-Optimize pricing strategies for high- and low-revenue cities.
-
-Partner with malls, hotels, and event venues to drive demand and enhance visibility.
-
-Implement Customer Feedback to improve service quality.
 
 
 Links:
