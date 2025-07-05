@@ -1,49 +1,41 @@
-Goodcabs Performance Analysis 🚕
+🚕 Goodcabs Performance Analysis
 
 Project: Codebasics Resume Challenge #13
 
-Duration: Analyzed Jan–Jun 2024 data
+Role: Data Analyst | Duration: Jan–Jun 2024
 
-Role: Data Analyst — Strategy & Insights
+Goodcabs is a fast-growing cab service expanding across India’s tier-2 cities. In this project, I analyzed six months of operational data to uncover actionable insights on trip volumes, passenger satisfaction, and revenue trends to help Goodcabs achieve its ambitious growth targets.
 
-Goodcabs, a rapidly growing cab service focused on India’s tier-2 cities, aims to expand its market share and improve operational efficiency. Through this project, I analyzed six months of operational data to identify patterns, uncover growth opportunities, and recommend actionable strategies.
+🔧 Tools & Technologies
+MySQL: Data extraction, cleaning, and query optimization.
 
-🔍 Tools Used:
+Power BI: Built an interactive dashboard with key metrics and trends.
 
-MySQL: Data extraction, cleansing, and complex query optimization.
+PowerPoint: Created a presentation to communicate insights and recommendations.
 
-Power BI: Interactive dashboards showcasing key metrics and trends.
+📊 Key Insights
+City Performance: Jaipur tops in trip volumes but needs better pricing; Surat has strong repeat riders but underpriced fares.
 
-PowerPoint: For stakeholder-ready presentations and strategic recommendations.
+Demand Patterns: Weekdays see higher demand in business cities; weekends and Feb–May are peak for tourist hubs.
 
-📈 Key Findings:
+Passenger Loyalty: New passengers give higher ratings than repeat customers, highlighting a service gap.
 
-Top Cities: Jaipur leads in trip volumes but struggles with fare pricing, while Surat has strong repeat passenger loyalty but underpriced fares.
+Revenue Trends: Seasonal and local events significantly impact trip demand and revenue spikes.
 
-Peak Demand: Business hubs are busiest on weekdays; tourist cities peak on weekends and during Feb–May.
+✅ Recommendations
+Run city-specific marketing to boost trips in low-performing areas.
 
-Passenger Insights: New customers rate services higher than repeat riders — highlighting a loyalty gap.
+Use dynamic pricing to balance profitability and customer satisfaction.
 
-Revenue Trends: Seasonal spikes align with local tourism calendars and events.
+Optimize fleet allocation to match demand patterns.
 
-External Drivers: Local events and weather patterns significantly shape trip demand.
+Adopt Electric Vehicles (EVs) for cost efficiency and sustainability.
 
-✅ Strategic Recommendations:
+Partner with malls, hotels, and event venues to drive more bookings.
 
-Launch city-specific marketing campaigns to boost trips in low-performing regions.
+Leverage passenger feedback to improve service quality and retention.
 
-Implement dynamic pricing to balance customer affordability with profitability.
-
-Optimize fleet allocation based on real-time demand patterns.
-
-Invest in Electric Vehicles (EVs) for long-term cost savings and sustainability goals.
-
-Forge partnerships with malls, hotels, and event venues to expand market reach.
-
-Continuously capture and act on passenger feedback to lift satisfaction and loyalty.
-
-Impact:
-This project combined technical skills with business strategy, resulting in a comprehensive dashboard and clear action plan to help Goodcabs scale efficiently and profitably in new markets.
+This project showcases how I blend data analysis with business strategy to deliver insights that drive real growth.
 
 
 
